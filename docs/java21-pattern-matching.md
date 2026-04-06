@@ -653,5 +653,5 @@ public List<ChatMessage> findRecentMessages(long channelId, int limit) {
   https://openjdk.org/jeps/431
 
 - **소스 코드:**
-  - `/playground/java21/PatternMatchingSwitchExample.java`
-  - `/playground/java21/SequencedCollectionsExample.java`
+  - `/modernjava/java21/PatternMatchingSwitchExample.java`
+  - `/modernjava/java21/SequencedCollectionsExample.java`

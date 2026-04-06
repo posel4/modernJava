@@ -1,4 +1,4 @@
-# Java 25 Playground
+# Modern Java
 
 Java 17→25 변천사 학습 프로젝트.
 

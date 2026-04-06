@@ -1723,7 +1723,7 @@ Java 25: ScopedValue, Structured Concurrency = 5th Preview
 javac --enable-preview --source 25 -d target/classes src/**/*.java
 
 # 실행
-java --enable-preview -cp target/classes playground.java25.Main
+java --enable-preview -cp target/classes modernjava.java25.Main
 
 # 테스트 (Maven)
 mvn clean test -DargLine="--enable-preview"

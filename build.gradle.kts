@@ -2,7 +2,7 @@ plugins {
     java
 }
 
-group = "playground"
+group = "modernjava"
 version = "1.0-SNAPSHOT"
 
 repositories {
